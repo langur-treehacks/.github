@@ -10,7 +10,7 @@
 ## Submission
 
 - [Devpost](https://devpost.com/software/polyaiglot)
-- [Pitch Deck](https://www.canva.com/design/DAF9HinNkw0/Yuv1ZjFAmGS2q4FJtvNacA/edit?utm_content=DAF9HinNkw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Pitch Deck](https://www.canva.com/design/DAF9HinNkw0/0ecvzQkQV_g7y_Py1tT8aA/view?utm_content=DAF9HinNkw0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## So the question stands: what helps set apart LangUR from language learning apps that help learners breach a beginner level of linguistic competence?
 
